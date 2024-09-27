@@ -12,3 +12,5 @@ Lab 05 https://github.com/2303A51221-aiml/AIML-2303A51221/blob/main/Lab_05.ipynb
 Lab 06 : https://github.com/2303A51221-aiml/AIML-2303A51221/blob/main/LAB06.ipynb
 
 Lab 07: https://github.com/2303A51221-aiml/AIML-2303A51221/blob/main/L_A_B_07_.ipynb
+
+Lab- 08: https://github.com/2303A51221-aiml/AIML-2303A51221/blob/main/L_A_B_08.ipynb
